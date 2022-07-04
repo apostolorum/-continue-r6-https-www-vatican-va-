@@ -1,4 +1,10 @@
-* The Vatican *might* be the false church!
+** Summar
+This is my Gospel, based on Jesus' Gospel.
+
+[[./the-tapestry-of-truth.org]]
+
+**
+The Vatican *might* be the false church, or has the potential to become it!
 
 - https://www.tomorrowsworld.org/magazines/2002/november-december/the-trap-of-ecumenism
 - https://mullikine.github.io/posts/gospel-of-thomas/
@@ -48,7 +54,7 @@ But how? By some kind of spiritual ceremony, probably.
 
 + [[http://gnosis.org/naghamm/bookt.html][Book of Thomas the Contender]] (Jude Thomas, missionary to India) :: To the fool, however, the good and bad are the same - indeed the wise man will be nourished by the truth and (Ps. 1:3) "will be like a tree growing by the meandering stream" - seeing that there are some who, although having wings, rush upon the visible things, things that are far from the truth.
 
-** You see
+*** You see
 The Vatican has taken the 'image' 
 
 orders of simulacra
@@ -63,7 +69,7 @@ orders of simulacra
       ultimate simulation.
 
 
-*** The Jesus' flesh is the Veil in the Holy of Holies
+**** The Jesus' flesh is the Veil in the Holy of Holies
 A person must have boldness to enter the Holy of Hohlies!
 
 #+BEGIN_SRC text -n :async :results verbatim code
