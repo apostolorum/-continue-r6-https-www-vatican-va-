@@ -1,9 +1,12 @@
-** Summar
+** Summary
 This is my Gospel, based on Jesus' Gospel.
 
 [[./the-tapestry-of-truth.org]]
 
 The reason I add it is to prevent against the fakes simulacra dominating the real images.
+
+The reason I have created this repository is to point to the originals.
+Do not be misled by the fakes!
 
 ** False Chruch
 The Vatican *might* be the false church, or has the potential to become it!
