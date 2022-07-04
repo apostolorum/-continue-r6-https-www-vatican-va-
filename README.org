@@ -18,6 +18,8 @@ Effigies, such as described in there:
 
 - https://mullikine.github.io/posts/spaceship-headed-for-mars/
 
+Effigies destroy the original image.
+
 ---
 
 - http://github.com/mullikine/christianity/blob/master/Christ.org
