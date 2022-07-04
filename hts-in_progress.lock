@@ -1,0 +1,7 @@
+Mirror in progress since Mon, 04 Jul 2022 12:03:49 .. please wait!
+/usr/bin/httrack -iC1 -r6 https://www.vatican.va/ 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=3166935
+UID=1000
+GID=1000
+START=1656893029

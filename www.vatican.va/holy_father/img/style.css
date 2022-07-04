@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    text-align:center;
+    padding:0;
+    margin:0;
+    color:#000;
+}
+p {
+font-size:11pt;
+font-family: Tahoma, Verdana, Segoe, sans-serif !important;
+}
+
+a:link{color:#663300;}
+a:visited{color:#663300;}
+a:hover{color:#000;}
+
+.rounded {
+    position:relative;
+    margin:0 auto;
+    text-align:left;
+    background-color: #ffffff;
+    max-width: 800px;
+    width:expression(document.body.clientWidth > 800? "800px": "auto");
+    height:auto;
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    margin-top:15px;
+    border: 1px solid #663300;    
+    -webkit-box-shadow: 6px 10px 17px rgba(102, 51, 0, 0.8);
+    -moz-box-shadow:    6px 10px 17px rgba(102, 51, 0, 0.8);
+     box-shadow:         6px 10px 17px rgba(102, 51, 0, 0.8);   
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+     border-radius: 10px;
+}
+     
+.rounded table td{
+    font-size: 11pt;
+    font-family: Tahoma, Verdana, Segoe, sans-serif !important;
+}
+
+.rounded td {
+font-size:11pt;
+font-family: Tahoma, Verdana, Segoe, sans-serif !important;
+}
