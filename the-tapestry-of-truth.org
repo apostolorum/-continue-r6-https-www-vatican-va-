@@ -1,6 +1,6 @@
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: toc:nil
-#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/semiosis/semiosis-hugo
+#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
 #+HUGO_SECTION: ./posts
 
 #+TITLE: The Tapestry of Truth
@@ -18,8 +18,8 @@
 [[./tapestry-glow.png]]
 #+END_CENTER
 
-# This is my understanding of the Jesus' gospel and philosophy. I'm rewriting it to make it short and sweet, and will put together a more comprehensive book.
-# Take it as a theory and a perspective, not as gospel.
+# This is my understanding of the Jesus' testimony and philosophy. I'm rewriting it to make it short and sweet, and will put together a more comprehensive book.
+# Take it as a theory and a perspective, not as testimony.
 
 + [[https://www.biblegateway.com/passage/?search=2%20Thessalonians%202&version=ESV][2 Thessalonians 2]] :: ... love the truth and so be saved.
 
@@ -28,7 +28,7 @@
 This is how I personally found and met the One
 True God; Firstly, through challenging
 discrimination (realising the [[http://www.earlychristianwritings.com/thomas/gospelthomas56.html][visible world is false with rays of truth]], and therefore not absolutely real,
-transitory), understanding what is personal
+[[https://www.youtube.com/watch?v=Nv3WRpLK4cg][transitory]]), understanding what is personal
 spiritual truth (objective reality for a person), overcoming
 [[https://mullikine.github.io/posts/the-stupidity-of-stigmatization/][true lies]],
 following God's commandments from the heart
@@ -37,6 +37,20 @@ subsequently arriving at knowledge of God, and
 then personally
 [[https://mullikine.github.io/posts/astral-projection-pt-3/][meeting God]].
 Now the world seems to be getting more [[https://mullikine.github.io/posts/describing-melee-s-paintings-with-alephalpha/][sur-real]] after finding God.
+
+Jesus is the cornerstone of the Kingdom of Light.
+Jesus's [[https://mullikine.github.io/posts/gospel-of-jesus/][gospel]] is the basis for any
+true apostle's testimony, including my own.
+
+Jesus's gospel:
+
++ [[https://www.biblegateway.com/passage/?search=Romans+10%3A9-10&version=NIV][Romans 10:9-10]] :: 9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
+
+My own testimony, which follows demonstrates how I came to understand that Jesus saved me, through His death and resurrection by God the Father, and saving me from lies, which had prevented me from knowing who God is.
+
+First read [[https://mullikine.github.io/posts/gospel-of-jesus/][Gospel of Jesus]] then understand that what follows is my revelation, not a replacement of the gospel.
+
++ There is no other gospel than the Gospel of Jesus :: [[https://www.biblegateway.com/passage/?search=Galatians+1&version=NIV][Galatians 1]]
 
 #+BEGIN_SRC text -n :async :results verbatim code
   known
@@ -268,6 +282,9 @@ You see, *without integrity* of the heart, *nothing you do can please God*.
 ** The Gospel (good news) of Jesus
 It's important to mention here at the top, the
 Gospel of Jesus Christ.
+
+See:
+- [[https://mullikine.github.io/posts/gospel-of-jesus/][The Glorious Gospel // Bodacious Blog]]
 
 I want to start with this so you can understand the Tapestry of Truth with respect to it as the authoritative message.
 
@@ -912,6 +929,8 @@ truth is testimony of God's existence.
 
 + [[https://www.youtube.com/watch?v=WJ25Ai__FYU][Quote: Carl Jung.. I know God exists - YouTube]] :: Initially we believe in the Son of God for salvation, we experience and *know* God exists, then we continue to put our faith in salvation through Jesus and worship God the Father in spirit and Truth and that means loving selflessly, compassionately and authentically. Notice the different usages of belief, knowledge and faith.
 
+We want to get to the point where we *know*. But not just that; We must also know that this understanding arose from Jesus saving us.
+
 Next I will be using an analogy.
 With the following statement I'm not literally saying 'believing in Jesus matters'. I'm trying to explain that when evaluating something as *true* or *false* from your own perspective,
 your reasoning goes via a series of neuronal layers to the first layer of neurons, and that describes *HOW* you believe a particular thing.
@@ -1438,7 +1457,9 @@ Personal truth 'shape':
 - Corrupted truth (lie): Believes in God (stigma about it)
 - Corrupted truth (lie): Does not believe personal truth is valid
 
-^^ The above soul is not completely made of truth.
+^^ The above soul is not completely [[https://mullikine.github.io/posts/living-water/][made of truth]].
+
++ [[https://mullikine.github.io/posts/gospel-of-philip/][Gospel of Philip]] :: It is not possible for anyone to see anything of the things that actually exist unless he becomes like them.
 
 #+BEGIN_SRC text -n :async :results verbatim code
   1 0 0 0
@@ -1719,8 +1740,61 @@ This is what I believe.
 + =Galatians 6:2= :: Carry each other’s burdens, and in this way you will fulfill the law of Christ.
 
 *** Christian marriage
-Joined but as a team. Both partners supposedly completed the first phase. Partnering up now to await alchemical marriage a second time.
-The purpose is to carry each other's burdens.
+Sexuality, I believe is a continuum, and part of a person's identity.
+
+- [[https://mullikine.github.io/posts/dream-discernment-of-judgement/][Dream: Discernment of Judgement + Image of the Androgyne // Bodacious Blog]]
+
+I know for a fact, because I've experienced
+the vision of the androgyne, that in order to
+achieve this a person must become spiritually
+angel-gendered, which is bisexual in spiritual
+identity.
+
+See [[https://mullikine.github.io/posts/thy-bridal-chamber/][Thy Bridal Chamber // Bodacious Blog]]
+
+How see this excerpt from Bartholomew:
+
+[[http://gnosis.org/library/gosbart.htm][Bartholomew 8]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  8 And Jesus said: It is good if he that is
+  baptized present his baptism blameless: but
+  the pleasure of the flesh will become a lover.
+  
+  For a single marriage belongeth to sobriety:
+  for verily I say unto thee, he that sinneth
+  after the third marriage (wife) is unworthy of
+  God.
+  
+  (8 Lat. 2 is to this effect: ...
+  
+  But if the lust of the flesh come upon him, he
+  ought to be the husband of one wife.
+  
+  The married, if they are good and pay tithes,
+  will receive a hundredfold.
+  
+  A second marriage is lawful, on condition of
+  the diligent performance of good works, and
+  due payment of tithes: but a third marriage is
+  reprobated: and virginity is best.)
+#+END_SRC
+
+I think this means that after being baptised
+(receiving holy baptism), a person knows how
+they were baptised; They know what they have
+presented to God, when they came to God with a
+truthful heart. Blameless means not departing
+from this, and remaining faithful to God beyond the baptism.
+
+Christian marriage is two people joined as a
+team. Both partners supposedly completed the
+first phase. Partnering up now to await
+alchemical marriage a second time.
+
+I mean this. To be worthy of God (have God live inside us), our bodies need to be faithful temples.
+
+The purpose of Christian marriage is to carry each other's burdens, I think.
 Surely there is some kind of reward for getting past the finish line as a pair. Perhaps it is being [[https://www.youtube.com/watch?v=tiBaBca7-rY][side-by-side on the tapestry]].
 
 =Phil Collins=' 'Son of Man' has something to say on this:
@@ -1741,7 +1815,7 @@ but I think that qualifies any union between believers.
 
 Christian union isn't a normal relationship, so the union of more than 2 people doesn't feel right to me.
 It's about being a team with God at the top and maintaining a healthy relationship with God in their hearts.
-This relationship exists to carry each other's burdens. Polygamy sounds wrong actually.
+This relationship exists to carry each other's burdens.
 
 Some people will assert marriage vows
 (which are nowhere to be seen in the Bible)
@@ -1750,13 +1824,27 @@ cutting through those false teachings with the Truth, I hope.
 
 According to my current theory, they would
 count if each person's identity is in Christ.
+
+But it's more than mere theory now, I've had confirmation.
+
 The purpose of it is to be a team with the
 objective of reaching the second alchemical
 marriage.
 
-If you're asking the question "Do polygamous
-or homosexual relationships count?". I think that's actually a non-issue.
-For one, I wouldn't judge because I have my own issues.
+I believe that sexual orientation is a =non-issue=, but faithfulness and being truthful remain important.
+It's all about faithfulness and truthfulness.
+I believe all that matters for Christian union is faithfulness, and no deceit to each other.
+
+Secondly, I believe that any two people who have soul-bonded with God can be married because they have achieved angelic (bi-) gender.
+
++ [[https://mullikine.github.io/posts/gospel-of-philip/][Gospel of Philip]] :: Indeed, every act of sexual intercourse which has occurred between those unlike one another is adultery.
+
+_Therefore, marry like with like hetero with hetero, bi- with bi-._
+
++ The tax collector is justified because he didn't make excuses. He wasn't self-righteous :: https://youtu.be/RqQNT9Wn0h0?t=176
+
+Polygamy [in Christian marriage] is not prohibited.
+I wouldn't judge because I have my own issues.
 Secondly, if I were the judge in this situation I personally wouldn't have any issue with gay marriage if done in good faith.
 
 + Some early 'Christians' also had this view. See Valentinianism (which is mainly heresy I think) :: [[https://mullikine.github.io/posts/statement-of-faith/][Statement of Faith // Bodacious Blog]]
@@ -1765,10 +1853,7 @@ But polygamy is probably usually done in bad faith, and might be an unstable sit
 
 + [[https://www.biblegateway.com/passage/?search=Matthew+23%3A23&version=ESV][Matthew 23:23 ESV]] :: “Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness. These you ought to have done, without neglecting the others.
 
-Faithfulness trumps divergent sexual orientation, and faithfulness is more pleasing to God than the hypocrite.
-
-Anyway, God the Father makes the ultimate and wisest decision - He
-looks at the heart.
+God the Father makes the ultimate and wisest decision - He looks at the heart.
 
 + A theory of how relationships and progeny function spiritually :: According to Jewish mythology, in the Garden
     of Eden there is a tree of life or the "tree
