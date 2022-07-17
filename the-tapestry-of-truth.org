@@ -1,6 +1,6 @@
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: toc:nil
-#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/semiosis/semiosis-hugo
 #+HUGO_SECTION: ./posts
 
 #+TITLE: The Tapestry of Truth
@@ -129,33 +129,59 @@ Your entire soul (vegetative, to sensitive, to
 rational), your entire reality from (body,
 mind and astral) is not unlike a holographic
 projection cast from shining (emanating)
-absolute truth through your spirit, which is
+absolute truth ([[https://mullikine.github.io/posts/the-dimension-of-light/][God's light]]) [[https://mullikine.github.io/posts/gospel-of-philip/][through your spirit]], which is
 beneath all of those things.
 
-See:
-- [[https://www.youtube.com/watch?v=1NyWh8SWVWI][Two invisible spiritual kingdoms]]. Our 'visible' reality is the temporary fiction.
-- [[https://www.youtube.com/watch?v=nM_FOUCpJ3I][Humans are detached from reality | Donald Hoffman and Lex Fridman - YouTube]]
+The Aristotle soul is inseparable to the body;
+For example, the mind, which is part of soul
+is based on the body. The mind is an [[https://www.youtube.com/watch?v=D5in5EdjhD0][organ for thought]], and is built with neurons in the brain, for example.
+But when God's spirit is connected to the human, the mind can receive information from God!
 
-The Aristotle soul is inseparable to the body; For example, the mind, which is part of soul is based on the body.
+But if we make our spirit truthful (compatible with God), then we can
+[[https://mullikine.github.io/posts/prayer-of-salvation/][invite the Holy Spirit to live within us]], and we can [[https://biblehub.com/1_corinthians/2-11.htm][tap into the mind of God]].
 
-In short, the biblical soul to my
-understanding consists of mind and emotion -
-consciousness, and reassuringly congruent to
-the Aristotle soul.
+However, it gets more interesting than that.
+
+There is an immanent part of the human soul
+and a transcendent part (which people are not
+usually aware of), but like the Jedi becoming one with the force, this part of us persists.
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  immanence
+      [#philosophy]
+      [#theology]
+  
+      The doctrine or theory of immanence holds
+      that the divine encompasses or is
+      manifested in the material world.
+  
+      It is held by some philosophical and
+      metaphysical theories of divine presence.
+  
+      A term applied, in contradistinction to
+      “transcendence,” to the fact or condition
+      of being entirely within something (from
+      Latin immanere, “to dwell in, remain”).
+#+END_SRC
 
 + [[https://www.biblegateway.com/passage/?search=Ecclesiastes%2012%3A7&version=KJV][Ecclesiastes 12:7]] - Then the dust will return to the earth as it was, and the spirit will return to God who gave it.
 
 As far as eternal life goes, the only
 guarantee is that your 'spirit' returns to
-God. I don't know about 'soul'. To my
+God. I don't know about the immanent (body) part of soul. To my
 knowledge, 'spirit' is the person's ultimate
 identity and unique view which returns to God.
+
 Literally that means much of what we
 experience in this reality we do not take with
 us, but some things we can. Anything you take
 has to be made of spiritual truth, I conjecture.
 
 + [[https://biblehub.com/kjv/1_corinthians/15.htm][1 Corinthians 15]] :: 50 Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
+
+I will refer to =soul= from now on as the
+immanent part of soul, which is the mind and
+body.
 
 The /marrow/ of the soul (the most core part) is the spirit.
 
@@ -391,19 +417,38 @@ God; Having swept your house, you become
 eligible to have the guest live inside (The Holy Spirit).
 
 The 10 commandments point to an impossible standard
-which people need a sacrifice for to be forgiven of transgressions, since we are not perfect, until we are perfected with Jesus' spirit knit with our own.
+which people need a sacrifice for to be
+forgiven of transgressions, since we are not
+perfect, until we are perfected with Jesus'
+spirit knit with our own.
+
++ [[https://www.biblegateway.com/passage/?search=Galatians%203&version=KJV][Galatians 3]] :: 24 Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith. 25 But after that faith is come, we are no longer under a schoolmaster.
+
+We are then justified by faith.
 
 + =Baptism of repentance= :: Frustratingly, the way the gospel (good news) is presented in the modern-day is usually
     in such a way that it first condemns to make you *feel* guilty about things which you innocently do, and feels arbitrary,
     then to say you can be forgiven and be guilt-free if you only believe in Jesus for forgiveness.
+    It's more involved than that, I think.
     
 This simulation of guilt and then forgiveness
 is a bit like a 'baptism' (submersion and
 emersion), but I would say this not a complete way to baptise.
 
+The law is written on the hearts of people,
+but some people are so inhibited by lies
+within themself they cannot believe the
+possibility of the [[https://en.wikipedia.org/
+wiki/Theory_of_forms][ideal form]] that is
+God, or the reality of absolute truth.
+
+Therefore, to re-acquaint a person with the
+knowledge of God (and prime them for faith),
+they need to repent according to the law.
+
 The Jews who John the baptist preached to would've already been aware of the 10 commandments, and that is the difference - this part cannot be skipped.
 
-Repentance is obedient following of commandments.
+Repentance is obedient following of commandments, which are written universally on people's hearts.
 Baptism of water is a declaration that a person will repent.
 When a person repents, they learn of God's character and what it's like to be Jesus when they are persecuted.
 
@@ -2769,6 +2814,11 @@ Thank you God for giving me evidence!
 + I discovered the Gospel of Thomas after writing this. It's pretty interesting, but non-essential reading :: [[https://www.youtube.com/watch?v=UUavaWnr4Hc][The Lost Gospel of Thomas: Unknown Teachings of Yeshua - YouTube]] - I want to interpret this for myself though. I'm going to think about all of the parables myself.
 + You must find your personal truth then understand God's truth by understanding commandments/Christ's Law, then accept salvation :: https://jakebeman.com/universal-truth-vs-personal-truth/
 + God's character :: [[https://www.youtube.com/watch?v=gbKCt7vK__0][I dreamed of Jesus Christ ... I had a dream | Jordan Peterson - YouTube]]
+
+---
+
+- [[https://www.youtube.com/watch?v=1NyWh8SWVWI][Two invisible spiritual kingdoms]]. Our 'visible' reality is the temporary fiction.
+- [[https://www.youtube.com/watch?v=nM_FOUCpJ3I][Humans are detached from reality | Donald Hoffman and Lex Fridman - YouTube]]
 
 *** Some other writings of mine
 + Hierarchy of Souls :: https://mullikine.github.io/posts/hierarchy-of-souls/
