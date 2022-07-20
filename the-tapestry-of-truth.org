@@ -1,7 +1,7 @@
 #+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: toc:nil
-#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
-#+HUGO_SECTION: ./posts
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/pneumatology/pneumatology-hugo
+#+HUGO_SECTION: ./post
 
 #+TITLE: The Tapestry of Truth
 #+DATE: <2022-04-19>
@@ -139,6 +139,8 @@ But when God's spirit is connected to the human by His indwelling, the mind can 
 
 But if we make our spirit truthful (compatible with God), then we can
 [[https://mullikine.github.io/posts/prayer-of-salvation/][invite the Holy Spirit to live within us]], and we can [[https://biblehub.com/1_corinthians/2-11.htm][tap into the mind of God]].
+
++ 1 John 4:7 :: Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.
 
 However, it gets more interesting than that.
 
@@ -1459,6 +1461,8 @@ as part of your own.
 
 It's a chicken-and-egg problem! But can be
 solved when you obey God's commandments.
+
++ [[https://www.biblegateway.com/passage/?search=1+Corinthians+3&version=kjv][1 Corinthians 3]] :: For other foundation can no man lay than that is laid, which is Jesus Christ.
 
 God's commandments are a reflection of God's
 personality as He can't be a hypocrite. If you
